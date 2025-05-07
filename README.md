@@ -1,4 +1,4 @@
-# Laboratory Website for Shih's Lab @ NYCU
+# Laboratory Website for SACC Lab @ NYCU
 
 ## Overview
 This project is an undergraduate project aimed at helping construct a splendid website for **Shih's Lab** at **National Yang Ming Chiao Tung University (NYCU)**.
