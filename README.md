@@ -42,9 +42,5 @@ The production server is managed with **PM2**, providing process monitoring and 
 ├── tsconfig.json       # TypeScript config
 └── package.json        # Project metadata & scripts
 ```
-## Author
-Wesber Chang
-Undergraduate Student, NYCU
-Developer @ SACC Lab
 ---
 > This project is part of an undergraduate development initiative at Shih’s Lab, NYCU.
