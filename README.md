@@ -13,7 +13,7 @@ The production server is managed with **PM2**, providing process monitoring and 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer            | Technology                             |
 |------------------|------------------------------------------|
