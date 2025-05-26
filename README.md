@@ -24,8 +24,6 @@ The production server is managed with **PM2**, providing process monitoring and 
 | Server Hosting   | Self-hosted server (NYCU lab machine)   |
 | Process Manager  | PM2 (for production process control)    |
 | Domain & DNS     | School-provided subdomain (`lab.nycu.edu.tw`) |
-| Future Backend   | MongoDB (planned)                       |
-
 
 > Note: Although Node.js is not used directly (e.g., with Express.js), **Next.js runs on Node.js** at runtime.
 
